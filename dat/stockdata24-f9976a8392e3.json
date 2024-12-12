@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stockdata24",
+  "private_key_id": "f9976a8392e38d770f0d0ccc73a6d5d51afc1a3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCaIQ+5PxY69P9i\na/NN1ha/xKQSsc7dVYm1Kcw+S+G8LkP4+PfNm21dpv64vRwoD/3kYmkijCk5xFKG\nP7lUBjDcOyzcA689nv36zm6qIXezIYGxK+2HqFCF2LtJ+u1KMtnP7mtQu7xplZ/W\nSCvt8LM92HYe9i/pRUo5SPUqR1eKrq1/IJIL4Clol31yip7qND78T0l1y3Sx7vRe\nmRIg/J0A7FgES/3E3oyzU5QfDrA/tOKQVERGr+CGaHeSknRGq7BWsTlicDuWqZiN\nJKAXz2SW9RQdIsC5R6QKql5lMFkdi/end+OgRvhd3PuCpLriKpNm8rPfYql2A4ty\nyG3fj2KnAgMBAAECggEAESsFmVjRnReVKt1jaJQkTJAWxo5PwI+6mxdgzL+fEVsF\n70GsOJbLg9cKIIHQFRZS7ZGYrGR4YxrfJl0Kw7U81AszX/55EqAXIkzEPucjciyV\nSare9nFlJsOReRgePlmTsXmZMpD217v25eN8ITDihk0KO0Co7Y7uSZs6087GjYfj\nP19rEdisrhNsNPP+d9Nk0HYG9BNhCDmP+Uz74G/BS328xYVXl341HhvhM9ULO3jk\n/Yl87F7jvsYGE4l62dthI/Wnoi27Z78il81m/qwd1YpMsQ1LBltDxPEperdvRea6\nLOAh+KBZInDZwKofXDFp7pqYKHtAzXsTtmyXH7W4IQKBgQDLqImsHJlREkow7XCD\ncIWRIwaB6RzJ4exZXydGCyv5vWMN2k29OL1B4BwkKRpSdL0G5t+acdBaFrJfPboK\nOGtDkAR9n71gcy8kkvFo2k+LhYdcJN/a+eesF27d3ctXekSeofHZGt/JqhVz14Wo\nHJLTpVe5yduOKdQMlzhsaVh9dQKBgQDBvc7IJvl3K8ubD2ey+j+PRi1yVFnDO+4e\nVYoF9/MVnRClFmvEYClEOJmDVCPP0UatAXX62D8MMw0I/KDsHOb3HADpfuYAHnrK\ntDQZf+FSEQDJqsKvMXpD+Kui5nffpQg4xcIeadP5KPqVOM1u2cPcXx1VtyTerGru\nCtMAnA8QKwKBgQCCy8kvemaVBLQVXEkIgXmmzuHdCUPt/GT4uP3WJFKn4BP/z5Zh\n0lDqP+6S4rr+/e5wwlIVNMdlNHJ2bIRREA8DozjfHXpYuWErkhvtBVhU+PsIGL6U\nOi+p/Jq9bzarBeGQJ93VW0cik1OXxHEYmNFLkEMZFSUm1oJTW8NnDPlCCQKBgBiI\nm6XW4aJIpnjVQ5FzhRb0kQ64RcGmVin7NQY6dsrW3+O36h+s+azM6guqXPqVCrkf\nxTvlpF48HLt1mj8sDcdfAXKQAjojofMHTM2p1vOYeZwQBqU+w7fVxo5TVvy4Hklq\nKYHGbvRPTyQUVFdkNhwy4zkWfxG/ja7lKgEawgGPAoGBAMY0n6I71TI8peuCsCkZ\nvjrg7kMJpB12GRuh1sJZaMW/tTe8kxWejs/WXmCbFPXVl+6ptBnMlx2Hd1iv1MAT\npuvQnFHQedUNP63s3yN04wsZHx+mPWBFuwk+MGA6n9yrYfSKjZvD2h7uVe1Trn4M\nmERPrj/02HaUyXlXoG/lbNNX\n-----END PRIVATE KEY-----\n",
+  "client_email": "sentiments-decoder-stock-marke@stockdata24.iam.gserviceaccount.com",
+  "client_id": "108166574088304350128",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sentiments-decoder-stock-marke%40stockdata24.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
