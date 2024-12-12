@@ -38,10 +38,12 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Load CSV data (replace this with your CSV file path)
-CSV_FILE_PATH = r'C:\Users\SuryaKrishna\Desktop\Application-sd\Application-driven-stockproj\dat\Whole data pack.csv'
+CSV_FILE_PATH = r'dat/Whole data pack.csv'
 
 @st.cache_data
 def load_data_from_csv():
+    
+    
     try:
         data = pd.read_csv(CSV_FILE_PATH)
         data['date'] = pd.to_datetime(data['date'], format='%m/%d/%Y', errors='coerce')
